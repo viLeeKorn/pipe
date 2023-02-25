@@ -24,7 +24,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.vileekorn.pipe"
+      "package": "com.vileekorn.pipe",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
